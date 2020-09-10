@@ -5,7 +5,7 @@ h1.headline,
 .bop .vote-wrapper .votes,
 .toggle > .toggle-label,
 .timestamp,
-.legend-key,
-.legend-label {
+.map-legend .legend-key,
+.map-legend .legend-label {
 	color: #fff;
 }
