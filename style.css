@@ -6,7 +6,8 @@ h1.headline,
 .toggle > .toggle-label,
 .timestamp,
 .map-legend .legend-key,
-.map-legend .legend-label {
+.map-legend .legend-label,
+.nav .bop-summary > .divider {
 	color: #fff;
 }
 
