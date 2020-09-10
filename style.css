@@ -11,6 +11,10 @@ h1.headline,
 	color: #fff;
 }
 
+body {
+	background: rgba(0, 0, 0, 0.7)
+}
+
 .office-nav .nav-button .nav-label .dropdown-caret {
 	border-color: #fff transparent transparent;
 }
