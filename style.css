@@ -9,3 +9,7 @@ h1.headline,
 .map-legend .legend-label {
 	color: #fff;
 }
+
+.office-nav .nav-button .nav-label .dropdown-caret {
+	border-color: #fff transparent transparent;
+}
