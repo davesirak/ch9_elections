@@ -1,3 +1,11 @@
-body, h1.headline, .ev-label, .majority, .votes, .toggle > .toggle-label, .timestamp, .legend-key, .legend-label {
+body,
+h1.headline,
+.ev-label,
+.majority,
+.votes,
+.toggle > .toggle-label,
+.timestamp,
+.legend-key,
+.legend-label {
 	color: #fff;
 }
