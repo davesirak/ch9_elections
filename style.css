@@ -9,7 +9,10 @@ h1.headline,
 .map-legend .legend-key,
 .map-legend .legend-label,
 .office-nav .nav-button .label,
-.nav .bop-summary > .divider {
+.nav .bop-summary > .divider,
+.map-legend.national-general,
+.expected-vote-summary .expected-vote-chatter,
+.expected-vote-summary .expected-vote-chatter .eevp {
 	color: #fff;
 }
 
