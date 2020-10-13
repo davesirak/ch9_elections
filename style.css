@@ -24,4 +24,4 @@ body {
 	border-left: 2px solid #fff;
 }
 
-.results-table-container .results-table { color: #000; }
+.results-table-container .results-table, .results-tooltip { color: #000; }
