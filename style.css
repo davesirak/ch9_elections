@@ -23,3 +23,5 @@ body {
 .bob .bar .divider {
 	border-left: 2px solid #fff;
 }
+
+.results-table-container .results-table { color: #000; }
