@@ -7,7 +7,7 @@ h1.headline,
 .timestamp,
 .map-legend .legend-key,
 .map-legend .legend-label,
-.office-nav .nav-button.selected .label,
+.office-nav .nav-button .label,
 .nav .bop-summary > .divider {
 	color: #fff;
 }
