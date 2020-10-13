@@ -13,7 +13,9 @@ h1.headline,
 .map-legend.national-general .legend-section .legend-title,
 .map-legend.national-general .legend-section .legend-section-items .legend-item .legend-label,
 .expected-vote-summary .expected-vote-chatter,
-.expected-vote-summary .expected-vote-chatter .eevp {
+.expected-vote-summary .expected-vote-chatter .eevp,
+h2.state-headline,
+.other-races {
 	color: #fff;
 }
 
