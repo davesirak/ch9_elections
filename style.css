@@ -32,3 +32,11 @@ body {
 }
 
 .results-table-container .results-table, .results-tooltip { color: #000; }
+
+.art.pres.dem.y2020 {
+	background-image: url('https://davesirak.github.io/ch9_elections/biden_joe.jpg')
+}
+
+.art.pres.gop.y2020 {
+	background-image: url('https://davesirak.github.io/ch9_elections/trump_donald.jpg')
+}
