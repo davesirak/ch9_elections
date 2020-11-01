@@ -17,8 +17,14 @@ h2.state-headline,
 .other-races,
 .state-results-block .race-title,
 .state-results-block .race-description,
-.ev-available {
+.ev-available,
+.race-progress .eevp-progress .eevp-pie {
 	color: #fff;
+}
+
+.race-progress .eevp-progress .eevp-pie svg {
+	fill: #fff;
+	stroke: #fff;
 }
 
 body {
