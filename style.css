@@ -47,3 +47,5 @@ body {
 }
 
 .expected-vote-summary, .timestamp { display: none; }
+
+.race-chips a.race-chip { background-color: #fff; }
