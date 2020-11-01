@@ -14,7 +14,8 @@ h1.headline,
 .expected-vote-summary .expected-vote-chatter,
 .expected-vote-summary .expected-vote-chatter .eevp,
 h2.state-headline,
-.other-races {
+.other-races,
+.state-results-block state-results-block-table {
 	color: #fff;
 }
 
