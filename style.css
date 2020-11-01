@@ -48,4 +48,6 @@ body {
 
 .expected-vote-summary, .timestamp { display: none; }
 
-.race-chips a.race-chip { background-color: #fff; }
+.race-chips .PartyGOP { color: #fff; }
+
+.race-chips .PartyGOP { background-color: #c43d49; }
