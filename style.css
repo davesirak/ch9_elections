@@ -16,7 +16,8 @@ h1.headline,
 h2.state-headline,
 .other-races,
 .state-results-block .race-title,
-.state-results-block .race-description {
+.state-results-block .race-description,
+.ev-available {
 	color: #fff;
 }
 
